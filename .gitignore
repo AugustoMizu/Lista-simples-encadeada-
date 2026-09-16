@@ -1,0 +1,8 @@
+# Arquivos de compilação do Java (Bytecodes)
+*.class
+# Pastas de saída onde o Eclipse compila o código
+bin/ target/
+# Arquivos de configuração específicos do Eclipse
+.metadata/ .classpath .project .settings/
+# Arquivos temporários e do sistema operativo
+Thumbs.db .DS_Store *.log
